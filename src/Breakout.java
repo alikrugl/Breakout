@@ -12,6 +12,7 @@ import java.awt.event.MouseEvent;
  *
  * Breakout game. Player has only 3 attempts.
  */
+
 public class Breakout extends WindowProgram {
     /**
      * Width and height of application window in pixels
