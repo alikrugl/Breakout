@@ -11,7 +11,6 @@ import java.awt.event.MouseEvent;
 /** File: Breakout.java
  *
  * Breakout game. Player has only 3 attempts.
- *
  */
 public class Breakout extends WindowProgram {
     /**
